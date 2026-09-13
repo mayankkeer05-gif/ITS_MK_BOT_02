@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "ITS_MK_BOT_02",
   "bot-account": {
-    "username": "DbgamingLive",
-    "password": "",
+    "username": "ITS_MK_BOT_02",
+    "password": "MADEBYMAYANK",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 25565,
-    "version": "1.21.1"
+    "ip": "LIFEsteleesmp.aternos.me",
+    "port": 37332,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Perzuu"
+      "password": "MADEBYMAYANK"
     },
     "anti-afk": {
       "enabled": true,
@@ -28,17 +28,15 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 5000,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "MADE BY - ITS_MK_PLAYS",
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 20000,
+    "auto-reconnect-delay": 1000000,
+    "max-reconnect-delay": 200,
     "periodic-rejoin": {
       "enabled": false,
       "min-interval": 20,
